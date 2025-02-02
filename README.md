@@ -15,4 +15,6 @@ I am mostly handson but also lead from a technical and managerial standpoint.
 3. Gen AI
 4. Automated Model performance & monitoring
 
+You can reach out to me on rajarshibemech@gmail.com if you need my help.
+
 
